@@ -1,5 +1,5 @@
 # InsertionSort
-command line program demonstrating the insertion sort
+This is a command line program demonstrating the insertion sort
 
 ## Description
 
